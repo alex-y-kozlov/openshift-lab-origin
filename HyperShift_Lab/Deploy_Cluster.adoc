@@ -432,7 +432,7 @@ metadata:
     cloud: auto-detect
     cluster.open-cluster-management.io/clusterset: default
     vendor: OpenShift
-    guid: ${GUID}
+    guid: '${GUID}'
     rhdp_type: sandbox
     rhdp_purpose: production
 spec:
